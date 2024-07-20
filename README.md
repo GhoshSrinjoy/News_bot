@@ -52,10 +52,6 @@ python main.py
 
 3. The application window will appear. Enter the topic you want to search for, select the time frame, sorting method, and language, then click the "Fetch News" button to retrieve and display the news articles.
 
-## Screenshots
-
-![News Fetcher Application Screenshot](screenshot.png)
-
 ## Code Overview
 
 ### main.py
