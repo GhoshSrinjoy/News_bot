@@ -1,5 +1,43 @@
-# News Fetcher Application
+*“I built a news app that never argues about sources , it just shows them.”*  
 
+# 🗞️ News Bot – News Fetcher Application  
+
+A simple desktop app built with **PyQt5** that fetches real-time news based on your chosen topic, timeframe, and language , powered by the **NewsAPI**.  
+
+Just type a keyword, choose your filters, and click **Fetch News**. The latest headlines, summaries, and URLs appear instantly in a clean interface.  
+
+🔗 **Repo:** https://github.com/GhoshSrinjoy/News_bot  
+
+---
+
+## Executive Summary  
+
+**News Bot** brings personalized news discovery right to your desktop , no browser clutter, no endless tabs.  
+It connects to the **NewsAPI**, retrieves the latest stories, and displays them in an intuitive, readable layout built with **PyQt5**.  
+
+**Why it’s useful:**  
+- Quick research without distractions  
+- Ideal for journalists, analysts, or anyone tracking specific topics  
+- Filterable by relevance, popularity, date, and language  
+
+You control what kind of news you want , and how you want it displayed. 📰  
+
+---
+
+## Methodology  
+
+### ⚙️ Flow  
+1. User enters a **topic** (e.g., “AI regulation” or “SpaceX”).  
+2. Selects a **time frame** , Daily, Weekly, Monthly, or Yearly.  
+3. Chooses **sorting preference** , relevancy, popularity, or publication date.  
+4. Selects **language** (English, Hindi, etc.).  
+5. The app sends a request to **NewsAPI**.  
+6. Articles are fetched and displayed with:  
+   - 📰 Title  
+   - 🧾 Description  
+   - 🔗 URL for the full article
+
+     
 ## Overview
 
 The News Fetcher Application is a simple desktop application built using PyQt5 that allows users to fetch and display news articles based on specific topics, time frames, sorting methods, and languages. The application uses the NewsAPI to retrieve news articles and displays them in a user-friendly interface.
