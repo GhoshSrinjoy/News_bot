@@ -6,9 +6,7 @@ A simple desktop app built with **PyQt5** that fetches real-time news based on y
 
 Just type a keyword, choose your filters, and click **Fetch News**. The latest headlines, summaries, and URLs appear instantly in a clean interface.  
 
-🔗 **Repo:** https://github.com/GhoshSrinjoy/News_bot  
 
----
 
 ## Executive Summary  
 
